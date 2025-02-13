@@ -1,0 +1,21 @@
+{
+  "name": "eventhandlingforcollege",
+  "version": "1.0.0",
+  "description": "It's a platform to handle the events on department level",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PurvaRane/EventHandlingForCollege.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/PurvaRane/EventHandlingForCollege/issues"
+  },
+  "homepage": "https://github.com/PurvaRane/EventHandlingForCollege#readme"
+}
